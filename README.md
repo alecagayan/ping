@@ -1,1 +1,1 @@
-# chatapp
+# Ping Secure Messenger
